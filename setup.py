@@ -29,7 +29,7 @@ PACKAGE = 'aionotify'
 
 setup(
     name=PACKAGE,
-    version=get_version(PACKAGE),
+    version="0.2.0",
     description="Asyncio-powered inotify library",
     author="Raphaël Barrois",
     author_email="raphael.barrois+%s@polytechnique.org" % PACKAGE,
